@@ -1,0 +1,39 @@
+Day 1: 
+Progress = Udacity on mobile. Started on course material. No laptop yet.
+Thoughts = Not going to code on my phone. Stopped at first coding question. 
+Links: none
+
+Day 2: 
+Progress = Udacity on Mobile. Trying to fix old laptop.
+Thoughts = Appreciated the switching logic applied to ML.
+Links: none
+
+Day 3:
+Progress = just clone your HDD to an SSD they said. Easy it will be they said. 
+Thoughts = I need a new laptop this one is garbage. 
+Links: none
+
+Day4: 
+Progress = New laptop. Working through Lesson 3. Math heavy.
+Thoughts = This is going to be an awesome laptop.
+Links:none
+
+Day 5: 
+Progress: Working through Lesson 3. Attended OM AMA. Reviewed One hot encoding.
+Thoughts: I need more time.
+Links:none
+
+Day 6: 
+Progress: Completed Lesson 4.
+Thoughts: While I spend time on this course, my toddler is playing video games. Thank you gaming community.
+Links: none
+
+Day 7:
+Progress: Lesson 5 is complete. Reviewing again.
+Thoughts: I need to go to bed earlier.
+Links: none
+
+Day 8: 
+Progress: Git, Anaconda, VSCode. Getting everyone to work together.
+Thoughts: I need to command line git. Created this text file to commit to git Every.Day.
+Links: https://github.com/Metrix1010/DailyActivityLog.git
