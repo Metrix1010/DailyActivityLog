@@ -25,7 +25,7 @@ Links:none
 
 Day 6: 
 Progress: Completed Lesson 4.
-Thoughts: While I spend time on this course, my toddler is playing video games. Thank you gaming community.
+Thoughts: Lots of abstract discussion. Found listening easier than watching.
 Links: none
 
 Day 7:
@@ -37,3 +37,8 @@ Day 8:
 Progress: Git, Anaconda, VSCode. Getting everyone to work together.
 Thoughts: I need to command line git. Created this text file to commit to git Every.Day.
 Links: https://github.com/Metrix1010/DailyActivityLog.git
+
+Day 9:
+Progress:Tweaking my envs with small database project. Working with my forked repo of PySyft. Lesson 5 continued.
+Thoughts: Still need to update my resume.
+Links:
