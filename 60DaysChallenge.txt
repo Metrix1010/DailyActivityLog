@@ -42,3 +42,8 @@ Day 9:
 Progress:Tweaking my envs with small database project. Working with my forked repo of PySyft. Lesson 5 continued.
 Thoughts: Still need to update my resume.
 Links:
+
+Day 10
+Progress: Lesson 5 which at some point I already completed. 
+Thoughts: Need to get through to some new material. Probably should've taken a skip day.
+Links:
