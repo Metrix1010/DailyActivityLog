@@ -57,3 +57,7 @@ Day 12:
 Progress: Installing nbextensions to jupyter notebook. 
 Thoughts: Create value for society and business through your projects. 
 Links:
+
+Day 13: 
+Progress: Had to share my laptop. Reviewed Lessons 5.16-22.
+Thoughts: So much to learn.
