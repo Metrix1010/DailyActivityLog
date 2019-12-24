@@ -61,3 +61,11 @@ Links:
 Day 13: 
 Progress: Had to share my laptop. Reviewed Lessons 5.16-22.
 Thoughts: So much to learn.
+
+Day 14: Remembered why I don't go to the mall on weekends. :christmas_tree:
+Review of Lesson 5.17-22. Trying a couple of things to get my data to load in jupyter notebooks. 
+Possibly firewall protection preventing access. Unicode error.
+Links:Watched: https://youtu.be/2-Ol7ZB0MmU
+
+Day 15: Getting dataset from kaggle. Will work on Cat vs Dog data in kaggle as suggested. 
+Links: Watched Live Debate Yoshua Bengio vs. Gary Marcus https://www.facebook.com/MontrealAI/videos/498403850881660/
