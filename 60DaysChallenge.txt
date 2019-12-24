@@ -69,3 +69,6 @@ Links:Watched: https://youtu.be/2-Ol7ZB0MmU
 
 Day 15: Getting dataset from kaggle. Will work on Cat vs Dog data in kaggle as suggested. 
 Links: Watched Live Debate Yoshua Bengio vs. Gary Marcus https://www.facebook.com/MontrealAI/videos/498403850881660/
+
+Day 16: Watched Kaggle GrandMaster Panel. It's Christmas Eve.
+Links: https://youtu.be/BNAiHpH_gMM
