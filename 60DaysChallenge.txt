@@ -73,4 +73,10 @@ Links: Watched Live Debate Yoshua Bengio vs. Gary Marcus https://www.facebook.co
 Day 16: Watched Kaggle GrandMaster Panel. It's Christmas Eve.
 Links: https://youtu.be/BNAiHpH_gMM
 
-Day 17: Christmas was a skip day! Started Lesson 6 today.
+Day 17: Christmas was a skip day! Started Lesson 6 today. Completed Lesson 6.1-6.10
+Thoughts: Trained model with 10 epochs then 30 epochs. Tested once with 98% accuracy!
+
+Day 18: Validation step on yesterdays network. Test loss was less. 
+	Still 98% overall test accuracy with each classification accuracy now higher.
+	Lesson 6.13-6.23 Learning CNNs. Padding with black pixels might be problematic. 
+Thoughts: Adding anything to an image doesn't seem safe. There has to be a better way to handle edges - maybe don't. Leave them shaggy?
