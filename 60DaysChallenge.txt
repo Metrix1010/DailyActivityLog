@@ -80,3 +80,8 @@ Day 18: Validation step on yesterdays network. Test loss was less.
 	Still 98% overall test accuracy with each classification accuracy now higher.
 	Lesson 6.13-6.23 Learning CNNs. Padding with black pixels might be problematic. 
 Thoughts: Adding anything to an image doesn't seem safe. There has to be a better way to handle edges - maybe don't. Leave them shaggy?
+	Mark them as "invisible" mathematically.
+
+Day 19: Lesson 6.24-6.28  Custom filters, finding edges. Filters are key in CNNs many are applied in the convolutional layer. RGB stack of 3, 2D Matrices.
+Thoughts: Padding an image places misinformation into the convolutional layer. Alternatively, leaving it out we lose this line of "sight" which seems a better default.
+	
