@@ -85,3 +85,5 @@ Thoughts: Adding anything to an image doesn't seem safe. There has to be a bette
 Day 19: Lesson 6.24-6.28  Custom filters, finding edges. Filters are key in CNNs many are applied in the convolutional layer. RGB stack of 3, 2D Matrices.
 Thoughts: Padding an image places misinformation into the convolutional layer. Alternatively, leaving it out we lose this line of "sight" which seems a better default.
 	
+Day 20: Lesson 6.29 Tinkering with CNN on CIFAR data. New model validated & saved at Epoch 28 with small improvement to 76% accuracy. 
+	Model seems to have difficulty with that one frog image. Originally classified it as a cat, now a deer.
