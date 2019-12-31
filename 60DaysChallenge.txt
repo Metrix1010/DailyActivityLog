@@ -87,3 +87,5 @@ Thoughts: Padding an image places misinformation into the convolutional layer. A
 	
 Day 20: Lesson 6.29 Tinkering with CNN on CIFAR data. New model validated & saved at Epoch 28 with small improvement to 76% accuracy. 
 	Model seems to have difficulty with that one frog image. Originally classified it as a cat, now a deer.
+
+Day 21: Lesson 6.30-6.31 Pooling Layers and Capsule Networks.
