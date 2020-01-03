@@ -89,3 +89,9 @@ Day 20: Lesson 6.29 Tinkering with CNN on CIFAR data. New model validated & save
 	Model seems to have difficulty with that one frog image. Originally classified it as a cat, now a deer.
 
 Day 21: Lesson 6.30-6.31 Pooling Layers and Capsule Networks.
+
+Day22: Looking into nbextensions for Jupyter notebook, it was magical. Lesson 6.32 Layer visualization. Happy New Year everyone!
+
+Day23: Detailed notes on Capsule networks and studying Layer visualization.
+
+Day24: Lesson 6.33-6.36
