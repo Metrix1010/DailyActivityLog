@@ -90,8 +90,18 @@ Day 20: Lesson 6.29 Tinkering with CNN on CIFAR data. New model validated & save
 
 Day 21: Lesson 6.30-6.31 Pooling Layers and Capsule Networks.
 
-Day22: Looking into nbextensions for Jupyter notebook, it was magical. Lesson 6.32 Layer visualization. Happy New Year everyone!
+Day 22: Looking into nbextensions for Jupyter notebook, it was magical. Lesson 6.32 Layer visualization. Happy New Year everyone!
 
-Day23: Detailed notes on Capsule networks and studying Layer visualization.
+Day 23: Detailed notes on Capsule networks and studying Layer visualization.
 
-Day24: Lesson 6.33-6.36
+Day 24: Lesson 6.33-6.36
+
+Day 25: PR to pysyft repo early this a.m.
+
+Day 26: Finished Lesson 6. Lots of great resources so I'll be revisiting this lesson.
+
+Day 27: Today is a skip day. Looking forward to Lesson 7 tomorrow!
+
+Day 28: Lesson 7.1-7.9 Style transfer
+
+Day 29: Took the time to create slack #introduction today. Continuing to read Permanent Record by E. Snowden - half way through!
