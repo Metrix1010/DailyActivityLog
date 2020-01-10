@@ -1,15 +1,15 @@
-# DailyActivityLog
-#60DaysChallenge
+Udacity
+Bertelsmann Tech Scholarship 2019 - AI Track Nanodegree Program
 
-#Document daily coding, research, activities. 
-
-Day 1 
-
-Progress:
-
-Thoughts:
-
-Links:
-
+Lessons for phase 1:
+Intro to Neural Networks
+Talking PyTorch with Soumith Chintala
+Introduction to PyTorch
+Convolutional Neural Networks
+Style Transfer
+Recurrent Neural Networks
+Sentiment Prediction RNNs
+Deploying PyTorch Models
+Challenge Course Wrap-Up
 
 
