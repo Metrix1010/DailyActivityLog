@@ -105,3 +105,7 @@ Day 27: Today is a skip day. Looking forward to Lesson 7 tomorrow!
 Day 28: Lesson 7.1-7.9 Style transfer
 
 Day 29: Took the time to create slack #introduction today. Continuing to read Permanent Record by E. Snowden - half way through!
+
+D30: Off on a tangent today. Enjoying #introductions channel write ups. Thanks to you all for sharing - its not easy for us is it?!?! haha. Today I'm learning about fastAI v2 overview which is a library that overlays PyTorch.
+
+D31: Finished style transfer Lesson 7. Octopus + RubixCubes. 
