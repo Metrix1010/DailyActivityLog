@@ -12,4 +12,4 @@ Sentiment Prediction RNNs
 Deploying PyTorch Models
 Challenge Course Wrap-Up
 
-
+#60DaysChallenge - coursework/research/coding 30mins everyday.
