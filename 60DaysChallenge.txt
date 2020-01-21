@@ -109,3 +109,23 @@ Day 29: Took the time to create slack #introduction today. Continuing to read Pe
 D30: Off on a tangent today. Enjoying #introductions channel write ups. Thanks to you all for sharing - its not easy for us is it?!?! haha. Today I'm learning about fastAI v2 overview which is a library that overlays PyTorch.
 
 D31: Finished style transfer Lesson 7. Octopus + RubixCubes. 
+
+D32: Lesson 8.1-8.5 LSTM reminds me of Dory (from Finding Dory).
+
+D33: Lesson 8.6-8.13 Learning time series prediction and GRU (Gated Recurrent Unit).
+
+D34: Lession 8.14-8.18
+
+D35: Today is a skip day.
+
+D36: Lesson 8.15 to the end. Tuning hyper-parameters. 
+
+D37: Lesson9.1-9.7 It is freezing here! Power grid reached new consumption record yesterday and we are in a deep freeze most of this week. -41C Brrrrrrrr  
+
+D38: Lesson 9.8-9.10 Embedding layer as a lookup table.
+
+D39: Today I checked dataset format for medical ai projects. Lesson 9 review.
+
+D40: Busy with soccer tournaments this weekend. Counting today as a skip day.
+
+D41: Completed course today. Hard to celebrate since it feels like I have so much more work to do and learn. On to projects!
